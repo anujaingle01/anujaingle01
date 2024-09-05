@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujaingle01&label=Profile%20views&color=0e75b6&style=flat" alt="anujaingle01" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/anujaingle01](https://github.com/anujaingle01)
 
